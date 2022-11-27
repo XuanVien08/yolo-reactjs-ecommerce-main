@@ -1,5 +1,6 @@
 {
-  "name": "code",
+  "homepage": "https://xuanvien08.github.io/yolo-ecommerce",
+  "name": "yolo-ecommerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
